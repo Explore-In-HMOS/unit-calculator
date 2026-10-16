@@ -1,3 +1,5 @@
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
+
 # Unit Calculator Application
 
 The Unit Converter app is a lightweight and intuitive tool designed for quick and accurate unit conversions across
