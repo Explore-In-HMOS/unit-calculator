@@ -70,7 +70,7 @@ entry/src/main/ets/
 
 - To run this app, download DevEco Studio version v5.1.0.823
 - Download the project and open it with DevEco.
-- Connect a wearable device that runs with HarmonyOs Next and Run it.
+- Connect a wearable device that runs with HarmonyOS and Run it.
 
 # License
 
